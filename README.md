@@ -1,6 +1,6 @@
 ## Myuzo Labs Manifesto
 
-![IMG_2709](https://github.com/myuzo-labs/myuzo-labs-meta/assets/122766281/fab80b23-efa1-4c61-82d0-4ad8700a8925)
+![nei myuzo_geometric_shapes_dancing_in_a_vibrant_spectrum_repres_6145ddaf-6bea-402a-8e7b-7f4a276578e7](https://github.com/myuzo-labs/myuzo-labs-meta/assets/122766281/6b2b51a0-7d97-4e1e-b5b4-ed1496b9999b)
 
 ***Myuzo Labs exists to liberate musical creativity, dismantling barriers through open-source collaboration, advanced audio separation, and artist-driven AI built around the exploration of sound.***
 
