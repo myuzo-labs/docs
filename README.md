@@ -28,4 +28,5 @@ We're building Myuzo Labs with a passionate community.  Whether you're a coder, 
 
 ### Community-Powered Audio Tools
 
-We integrate best-of-breed solutions like Nendo plugins to empower our users.  Our collaborative platform unlocks their potential and drives our development of custom AI tailored to our community's needs. 
+We integrate best-of-breed solutions like [Nendo plugins](https://github.com/okio-ai/nendo) to empower our users.  Our collaborative platform unlocks their potential and drives our development of custom AI tailored to our community's needs. 
+
