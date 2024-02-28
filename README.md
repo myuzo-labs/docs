@@ -1,6 +1,6 @@
 ## Myuzo Labs Manifesto
 
-[**Optional Logo or Visual Here**]
+![IMG_2709](https://github.com/myuzo-labs/myuzo-labs-meta/assets/122766281/fab80b23-efa1-4c61-82d0-4ad8700a8925)
 
 ***Myuzo Labs exists to liberate musical creativity, dismantling barriers through open-source collaboration, advanced audio separation, and artist-driven AI built around the exploration of sound.***
 
@@ -10,6 +10,7 @@
 * **Advanced Audio Separation:** Isolate individual instrument layers, and even their component sounds, for unprecedented sonic control.
 * **AI as Your Creative Collaborator:** Tools that spark inspiration, suggest new directions, and help you explore the sonic possibilities within your work. 
 * **Community-Driven Innovation:** A space where ideas flow, and experimentation is celebrated.
+* **Seamless Workflow Integration:** Switch effortlessly to your favorite DAW for in-depth editing, or make quick changes directly within the web app. 
 
 ## Why We Do This
 
@@ -27,3 +28,4 @@ We're building Myuzo Labs with a passionate community.  Whether you're a coder, 
 ## Partnership Potential (Nendo Collaboration)
 
 We're deeply inspired by Nendo's technology and share their commitment to empowering creators. We're actively seeking collaboration to bring our vision to life.
+
