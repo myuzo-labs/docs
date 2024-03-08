@@ -15,7 +15,7 @@
 
 ### Why We Do This
 
-We believe music is meant to be fluid and ever-evolving.  Our tools are designed to unlock the music we all hear in our heads, empowering artists of all skill levels to break free from creative limitations and forge a future where collaboration is the heartbeat of musical expression.
+We believe music is meant to be fluid and ever-evolving.  The tools are designed to unlock the music we all hear in our heads, empowering artists of all skill levels to break free from creative limitations and forge a future where collaboration is the heartbeat of musical expression.
 
 ### Contributing to Myuzo Labs
 
